@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "N+KcJQzV2YI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\noras\\source\\repos\\noras02\\gyakorlat_devops\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\noras\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}
